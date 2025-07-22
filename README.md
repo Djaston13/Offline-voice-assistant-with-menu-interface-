@@ -2,7 +2,7 @@
 
 This is a simple text-based voice assistant for Android, written in Python. It simulates speech using `print()` and runs smoothly in terminal environments like Pydroid 3.
 
-## 🔧 Features
+## Features
 
 - Greets the user by name
 - Lets you add and view reminders
@@ -10,12 +10,12 @@ This is a simple text-based voice assistant for Android, written in Python. It s
 - Includes a Help menu for guidance
 - Simulated voice output (for offline environments)
 
-## 📱 Requirements
+##  Requirements
 
 - Python 3.x (tested on Pydroid 3)
 - No additional libraries needed
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open Pydroid 3 or any Python environment.
 2. Copy and paste the script into a `.py` file (e.g. `voice_assistant.py`).
@@ -24,7 +24,7 @@ This is a simple text-based voice assistant for Android, written in Python. It s
    python3 voice_assistant.py
    ```
 
-## 💡 Usage
+##  Usage
 
 Choose from the menu:
 
@@ -36,12 +36,12 @@ Choose from the menu:
 
 ---
 
-## 🎯 Why This Project?
+##  Why This Project?
 
 This project is designed to help beginners understand how to build simple command-line tools with basic logic. It's perfect for mobile development and offline Python practice.
 
 ---
 
-## 📁 License
+##  License
 
 MIT License
